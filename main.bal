@@ -1,4 +1,4 @@
-import ballerina/mcp;
+import projzone/mcp;
 
 listener mcp:Listener mcpListener = new (8080);
 
